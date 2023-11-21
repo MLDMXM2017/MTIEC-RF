@@ -1,0 +1,189 @@
+nohup: ignoring input
+Feature type: Avalon
+Num of endpoints= 59
+Fold sequence: [2] [0] [1] [3] [4]
+K= 1
+threshold= 0.002
+1 -th dataset has already loaded
+(338, 1024) (338,)
+2 -th dataset has already loaded
+(353, 1024) (353,)
+3 -th dataset has already loaded
+(192, 1024) (192,)
+4 -th dataset has already loaded
+(352, 1024) (352,)
+5 -th dataset has already loaded
+(112, 1024) (112,)
+6 -th dataset has already loaded
+(545, 1024) (545,)
+7 -th dataset has already loaded
+(674, 1024) (674,)
+8 -th dataset has already loaded
+(125, 1024) (125,)
+9 -th dataset has already loaded
+(1129, 1024) (1129,)
+10 -th dataset has already loaded
+(248, 1024) (248,)
+11 -th dataset has already loaded
+(153, 1024) (153,)
+12 -th dataset has already loaded
+(121, 1024) (121,)
+13 -th dataset has already loaded
+(793, 1024) (793,)
+14 -th dataset has already loaded
+(176, 1024) (176,)
+15 -th dataset has already loaded
+(169, 1024) (169,)
+16 -th dataset has already loaded
+(179, 1024) (179,)
+17 -th dataset has already loaded
+(571, 1024) (571,)
+18 -th dataset has already loaded
+(36295, 1024) (36295,)
+19 -th dataset has already loaded
+(266, 1024) (266,)
+20 -th dataset has already loaded
+(16978, 1024) (16978,)
+21 -th dataset has already loaded
+(102, 1024) (102,)
+22 -th dataset has already loaded
+(23373, 1024) (23373,)
+23 -th dataset has already loaded
+(264, 1024) (264,)
+24 -th dataset has already loaded
+(302, 1024) (302,)
+25 -th dataset has already loaded
+(214, 1024) (214,)
+26 -th dataset has already loaded
+(6769, 1024) (6769,)
+27 -th dataset has already loaded
+(252, 1024) (252,)
+28 -th dataset has already loaded
+(1739, 1024) (1739,)
+29 -th dataset has already loaded
+(300, 1024) (300,)
+30 -th dataset has already loaded
+(5021, 1024) (5021,)
+31 -th dataset has already loaded
+(318, 1024) (318,)
+32 -th dataset has already loaded
+(2472, 1024) (2472,)
+33 -th dataset has already loaded
+(135, 1024) (135,)
+34 -th dataset has already loaded
+(10190, 1024) (10190,)
+35 -th dataset has already loaded
+(322, 1024) (322,)
+36 -th dataset has already loaded
+(835, 1024) (835,)
+37 -th dataset has already loaded
+(1896, 1024) (1896,)
+38 -th dataset has already loaded
+(174, 1024) (174,)
+39 -th dataset has already loaded
+(806, 1024) (806,)
+40 -th dataset has already loaded
+(261, 1024) (261,)
+41 -th dataset has already loaded
+(159, 1024) (159,)
+42 -th dataset has already loaded
+(171, 1024) (171,)
+43 -th dataset has already loaded
+(142, 1024) (142,)
+44 -th dataset has already loaded
+(131, 1024) (131,)
+45 -th dataset has already loaded
+(792, 1024) (792,)
+46 -th dataset has already loaded
+(346, 1024) (346,)
+47 -th dataset has already loaded
+(894, 1024) (894,)
+48 -th dataset has already loaded
+(249, 1024) (249,)
+49 -th dataset has already loaded
+(1495, 1024) (1495,)
+50 -th dataset has already loaded
+(181, 1024) (181,)
+51 -th dataset has already loaded
+(156, 1024) (156,)
+52 -th dataset has already loaded
+(241, 1024) (241,)
+53 -th dataset has already loaded
+(468, 1024) (468,)
+54 -th dataset has already loaded
+(360, 1024) (360,)
+55 -th dataset has already loaded
+(649, 1024) (649,)
+56 -th dataset has already loaded
+(187, 1024) (187,)
+57 -th dataset has already loaded
+(140, 1024) (140,)
+58 -th dataset has already loaded
+(156, 1024) (156,)
+59 -th dataset has already loaded
+(163, 1024) (163,)
+Shape of traing set for MT-RF： (98076, 1024)
+Num of trees in MT-RF: 60
+1 -th model finish training, Num of trees: 124
+2 -th model finish training, Num of trees: 92
+3 -th model finish training, Num of trees: 92
+4 -th model finish training, Num of trees: 108
+5 -th model finish training, Num of trees: 119
+6 -th model finish training, Num of trees: 71
+7 -th model finish training, Num of trees: 72
+8 -th model finish training, Num of trees: 72
+9 -th model finish training, Num of trees: 75
+10 -th model finish training, Num of trees: 76
+11 -th model finish training, Num of trees: 89
+12 -th model finish training, Num of trees: 90
+13 -th model finish training, Num of trees: 73
+14 -th model finish training, Num of trees: 129
+15 -th model finish training, Num of trees: 90
+16 -th model finish training, Num of trees: 69
+17 -th model finish training, Num of trees: 70
+18 -th model finish training, Num of trees: 65
+19 -th model finish training, Num of trees: 86
+20 -th model finish training, Num of trees: 90
+21 -th model finish training, Num of trees: 99
+22 -th model finish training, Num of trees: 95
+23 -th model finish training, Num of trees: 110
+24 -th model finish training, Num of trees: 69
+25 -th model finish training, Num of trees: 107
+26 -th model finish training, Num of trees: 73
+27 -th model finish training, Num of trees: 90
+28 -th model finish training, Num of trees: 62
+29 -th model finish training, Num of trees: 69
+30 -th model finish training, Num of trees: 77
+31 -th model finish training, Num of trees: 88
+32 -th model finish training, Num of trees: 99
+33 -th model finish training, Num of trees: 112
+34 -th model finish training, Num of trees: 87
+35 -th model finish training, Num of trees: 102
+36 -th model finish training, Num of trees: 129
+37 -th model finish training, Num of trees: 85
+38 -th model finish training, Num of trees: 70
+39 -th model finish training, Num of trees: 71
+40 -th model finish training, Num of trees: 86
+41 -th model finish training, Num of trees: 104
+42 -th model finish training, Num of trees: 86
+43 -th model finish training, Num of trees: 97
+44 -th model finish training, Num of trees: 85
+45 -th model finish training, Num of trees: 98
+46 -th model finish training, Num of trees: 102
+47 -th model finish training, Num of trees: 97
+48 -th model finish training, Num of trees: 104
+49 -th model finish training, Num of trees: 113
+50 -th model finish training, Num of trees: 127
+51 -th model finish training, Num of trees: 64
+52 -th model finish training, Num of trees: 72
+53 -th model finish training, Num of trees: 105
+54 -th model finish training, Num of trees: 105
+55 -th model finish training, Num of trees: 95
+56 -th model finish training, Num of trees: 87
+57 -th model finish training, Num of trees: 145
+58 -th model finish training, Num of trees: 169
+59 -th model finish training, Num of trees: 141
+Avg r2   of all endpoints: 0.6
+Avg rmse of all endpoints: 0.6
+Avg mae  of all endpoints: 0.45
+

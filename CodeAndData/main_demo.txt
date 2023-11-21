@@ -1,0 +1,7 @@
+#Run the following commands in linux environment to obtain 5 reports corresponding to 5-fold cross-verification
+
+nohup python ./Fold1_avalon.py > ./Avalon_fold1_report.log 2>&1 &
+nohup python ./Fold2_avalon.py > ./Avalon_fold2_report.log 2>&1 &
+nohup python ./Fold3_avalon.py > ./Avalon_fold3_report.log 2>&1 &
+nohup python ./Fold4_avalon.py > ./Avalon_fold4_report.log 2>&1 &
+nohup python ./Fold5_avalon.py > ./Avalon_fold5_report.log 2>&1 &
